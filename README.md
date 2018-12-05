@@ -16,6 +16,6 @@ Layer 3 is the data access for retrieving data from db (in this case, MongoDB).
 
 ## More information
 This was built using the following tutorials and resources:
-- [Learn Spring Boot (MVC) in 50 Minutes](https://www.youtube.com/watch?v=Ke7Tr4RgRTs)
--[Getting Started: Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
--[Spring Framework Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
+* [Learn Spring Boot (MVC) in 50 Minutes](https://www.youtube.com/watch?v=Ke7Tr4RgRTs)
+* [Getting Started: Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
+* [Spring Framework Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
